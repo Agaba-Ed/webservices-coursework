@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<!--- This file contains data on students in BSE class. The  outermost tag is class, with other elements nested inside it. 
+The student tag is at the next level in hierarchy which contains name,course and tele elements.
+ -->
+<class>
+<student>
+    <name>
+    Agaba Edwin
+    </name>
+    <course>
+    <name>
+    Bachelor of science in software engineering.
+    </name>
+    <code>
+    BSE
+    </code>
+    </course>
+    <tele>
+        <code>256
+        </code>
+        <number>788558558
+        </number>
+    </tele>
+</student>
+<student>
+    <name>
+    Musanje Lawrence
+    </name>
+    <course>
+    <name>
+    Bachelor of science in software engineering.
+    </name>
+    <code>
+    BSE
+    </code>
+    </course>
+    <tele>
+        <code>256
+        </code>
+        <number>7578456745
+        </number>
+    </tele>
+</student>
+<student>
+    <name>
+    Kasozi Evans
+    </name>
+    <course>
+    <name>
+    Bachelor of science in software engineering.
+    </name>
+    <code>
+    BSE
+    </code>
+    </course>
+    <tele>
+        <code>256
+        </code>
+        <number>75478475869
+        </number>
+    </tele>
+</student>
+<student>
+    <name>
+    Atugonza Tess
+    </name>
+    <course>
+    <name>
+    Bachelor of science in software engineering.
+    </name>
+    <code>
+    BSE
+    </code>
+    </course>
+    <tele>
+        <code>256
+        </code>
+        <number>75478475869
+        </number>
+    </tele>
+</student>
+
+<student>
+    <name>
+    Lumuli Tonny
+    </name>
+    <course>
+    <name>
+    Bachelor of science in software engineering.
+    </name>
+    <code>
+    BSE
+    </code>
+    </course>
+    <tele>
+        <code>256
+        </code>
+        <number>75478475869
+        </number>
+    </tele>
+</student>
+
+<student>
+    <name>
+    Musimenta Anita
+    </name>
+    <course>
+    <name>
+    Bachelor of science in software engineering.
+    </name>
+    <code>
+    BSE
+    </code>
+    </course>
+    <tele>
+        <code>256
+        </code>
+        <number>75478475869
+        </number>
+    </tele>
+</student>
+<student>
+    <name>
+    Kuyesu Rogers
+    </name>
+    <course>
+    <name>
+    Bachelor of science in software engineering.
+    </name>
+    <code>
+    BSE
+    </code>
+    </course>
+    <tele>
+        <code>256
+        </code>
+        <number>75478475869
+        </number>
+    </tele>
+</student>
+
+<student>
+    <name>
+    Abraham
+    </name>
+    <course>
+    <name>
+    Bachelor of science in software engineering.
+    </name>
+    <code>
+    BSE
+    </code>
+    </course>
+    <tele>
+        <code>256
+        </code>
+        <number>75478475869
+        </number>
+    </tele>
+</student>
+</class>
